@@ -1,4 +1,5 @@
 name: Run SonarQube with Maven
+
 on: push
 
 jobs:
